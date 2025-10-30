@@ -31,10 +31,7 @@ Kod ve kahve arasında geçen bir hayatın mimarı.
 EMAIL = "dogukansark44@gmail.com"
 KONUM = "Türkiye"
 
-# Fotoğraf yolu
-
-
-PROFILE_PIC_PATH = "../assets/foto.png"
+PROFILE_PIC_PATH = "assets/foto.png"
 PROFILE_PIC_URL = img_to_base64(PROFILE_PIC_PATH)
 PROFILE_ALT_TEXT = "Doğukan Şark Profil Fotoğrafı"
 
