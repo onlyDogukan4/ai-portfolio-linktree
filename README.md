@@ -16,7 +16,7 @@ Uygulamanın aktif versiyonuna ve tüm bağlantılarıma buradan ulaşabilirsini
 
 ---
 
-## 🛠️ Temel Teknolojiler
+## 🛠️ Temel Teknolojiler 
 
 Bu uygulama, profesyonel bir arayüz oluşturmak için aşağıdaki temel teknolojilerle geliştirilmiştir:
 
