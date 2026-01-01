@@ -8,7 +8,7 @@ Bu depo, AI Engineer ve Computer Vision Uzmanı Doğukan Şark'ın tüm profesyo
 
 --- 
 
-## 🔗 Canlı Uygulamayı Görüntüle
+## 🔗 Canlı Uygulamayı Görüntüle 
 
 Uygulamanın aktif versiyonuna ve tüm bağlantılarıma buradan ulaşabilirsiniz:
 
